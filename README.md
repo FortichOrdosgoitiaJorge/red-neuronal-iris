@@ -134,12 +134,11 @@ red-neuronal-iris/
 
 ---
 
-# 🐍 Snake Animation
+# ⚡ Artificial Intelligence
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650">
 </p>
-
 ---
 
 # 📷 Inteligencia Artificial
