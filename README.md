@@ -12,7 +12,7 @@
 
 ---
 
-# 🌸 Descripción del Proyecto
+#  Descripción del Proyecto
 
 Este proyecto implementa una red neuronal artificial utilizando Python y Scikit-Learn para clasificar automáticamente flores del dataset Iris.
 
@@ -31,7 +31,7 @@ Y clasifica flores en:
 
 ---
 
-# 🧠 Tecnologías utilizadas
+#  Tecnologías utilizadas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,github" />
@@ -39,7 +39,7 @@ Y clasifica flores en:
 
 ---
 
-# ⚙️ Funcionamiento del modelo
+#  Funcionamiento del modelo
 
 La red neuronal:
 
@@ -52,7 +52,7 @@ La red neuronal:
 
 ---
 
-# 📊 Métricas utilizadas
+#  Métricas utilizadas
 
 Durante el entrenamiento se muestran:
 
@@ -60,11 +60,11 @@ Durante el entrenamiento se muestran:
 ✅ Precisión (Accuracy)
 
 Cuando el error disminuye y la precisión aumenta:
-➡️ significa que la red neuronal está aprendiendo correctamente.
+ significa que la red neuronal está aprendiendo correctamente.
 
 ---
 
-# 🚀 Ejemplo de entrenamiento
+#  Ejemplo de entrenamiento
 
 ```bash
 Época: 1
@@ -82,7 +82,7 @@ Precisión: 97%
 
 ---
 
-# 💻 Ejecución del proyecto
+#  Ejecución del proyecto
 
 ## Instalar dependencias
 
@@ -98,7 +98,7 @@ python main.py
 
 ---
 
-# 📂 Estructura del proyecto
+#  Estructura del proyecto
 
 ```bash
 red-neuronal-iris/
@@ -110,7 +110,7 @@ red-neuronal-iris/
 
 ---
 
-# 📈 Estadísticas GitHub
+#  Estadísticas GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -118,7 +118,7 @@ red-neuronal-iris/
 
 ---
 
-# 🔥 Actividad
+#  Actividad
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight&hide_border=true"/>
@@ -126,7 +126,7 @@ red-neuronal-iris/
 
 ---
 
-# 🏆 Logros
+#  Logros
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=TUUSUARIO&theme=tokyonight&no-frame=true&row=1&column=6"/>
@@ -134,14 +134,14 @@ red-neuronal-iris/
 
 ---
 
-# ⚡ Artificial Intelligence
+#  Artificial Intelligence
 
 <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650">
 </p>
 ---
 
-# 📷 Inteligencia Artificial
+#  Inteligencia Artificial
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="550">
@@ -149,15 +149,15 @@ red-neuronal-iris/
 
 ---
 
-# 👨‍💻 Autor
+#  Autor
 
 Jorge Andrés Fortich Ordosgoitia
 
-🎓 Ingeniería de Sistemas  
-🏫 Pontificia Universidad Javeriana
+ Ingeniería de Sistemas  
+ Pontificia Universidad Javeriana
 
 ---
 
-# 🎯 Objetivo del proyecto
+#  Objetivo del proyecto
 
 Demostrar el funcionamiento básico de una red neuronal artificial y cómo la inteligencia artificial puede aprender patrones automáticamente mediante entrenamiento y análisis de datos.
